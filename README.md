@@ -5,8 +5,13 @@ objetiva, fácil de programar e fácil de aprender. Permite construir soluções
 do mundo para ensinar programação. Neste Nanodegree vamos aprender a parte básica de Python, como estrutura, variáveis, condicionais, loops e ainda toda a parte de biblioteca de análise de dados que vão possibilitar fazer data science. 
 
 
-## Projeto 1: 
+## Projeto 1: Introdução ao Python 
 
 
 
-## Projeto 2: 
+## Projeto 2: Introdução à análise de dados 
+
+
+## Licença 
+
+
